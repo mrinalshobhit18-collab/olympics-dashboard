@@ -44,7 +44,7 @@ An interactive data analysis web app built using **Streamlit** to explore histor
 ## ⚙️ Installation (Local)
 
 ```bash
-git clone https://github.com/your-username/olympics-dashboard.git
+git clone https://github.com/mrinalshobhit18-collab/olympics-dashboard.git
 cd olympics-dashboard
 pip install -r requirements.txt
 streamlit run app.py

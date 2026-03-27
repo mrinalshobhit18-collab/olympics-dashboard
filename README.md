@@ -2,7 +2,7 @@
 
 An interactive data analysis web app built using **Streamlit** to explore historical Olympic data.
 
-## 🚀 Live Demo
+## 🚀 Demo Link
 
 👉 https://olympics-dashboard-zh7u.onrender.com/
 ---
